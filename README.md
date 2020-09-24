@@ -1,3 +1,3 @@
-### Hi there 👋
+### Hello world 👋
 
-I'm a senior undergraduate student at UCLA pursuing Computer Science degree. I specialize in building scalable & high-quality web applications and writing readable code. 
+I'm Junhong. I'm a student at UCLA studying Computer Science 👨‍💻. I specialize in full stack web development and writing readable code.
